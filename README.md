@@ -18,6 +18,7 @@ A simple keygen written in python for easytether.
       2. Click on the button labeled "ENTER IT". On newer Android devices you may have to grant access to EasyTether. 
       3. At the top of the screen you should see your IMEI.
 
+# I am not responible for you actions with this script. IF YOU USE THE SOFTWARE YOU SHOULD PAY FOR IT
 I love EasyyTether but it has been a hit and miss thing with me over the years so I created a keygen that allows me to test Easytether on new devices. Use this to test that EasyTether is compatiable with your phone and if it does make sure you at least pay for it.
 
 *I know that Lite version is meant to be used to test compatibility but for certain devices the Lite version works better then the paid version.
