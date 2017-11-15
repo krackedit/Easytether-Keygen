@@ -1,7 +1,6 @@
 # EasyTether-Keygen
-EasyTether Key Generator for Android
 
-A simple keygen written in python for easytether. 
+A simple keygen written in python for EasyTether for Android. 
 
 # How to use
   1. Download Easytether Lite from the Play Store or from http://www.mobile-stream.com/a/easytether-phone.apk
