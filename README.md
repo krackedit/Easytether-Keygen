@@ -10,7 +10,7 @@ A simple keygen written in python for EasyTether. *Android only
 # Locating IMEI/MEID
   Both IMEI and MEID are a long string of numbers with 14(MEID) or 15(IMEI) characters in it
   ## Method 1:
-  1. Dial *#06* on the Android device
+  1. Dial \*#06# on the Android device
   2. Your device will return your IMEI/MEID
   ## Method 2:
   1. Open easytether and click on Activate EasyTether.
