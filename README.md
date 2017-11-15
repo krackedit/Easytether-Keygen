@@ -20,7 +20,7 @@ A simple keygen written in python for easytether.
 
 # Extra Info
 
-I love EasyTether but it has been a hit and miss thing with me over the years so I created a keygen that allows me to test Easytether on new devices. Use this to test that EasyTether is compatiable with your phone and if it does make sure you at least pay for it.
+I love EasyTether but it has been a hit and miss thing with me over the years so I created a keygen that allows me to test Easytether on new devices. Use this to test that EasyTether is compatiable with your device and if it is make sure you at pay for it.
 
 *I know that Lite version is meant to be used to test compatibility but for certain devices the Lite version works better then the paid version.
 
