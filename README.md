@@ -23,4 +23,4 @@ I love EasyTether but it has been a hit and miss thing with me over the years so
 
 *I know that Lite version is meant to be used to test compatibility but for certain devices the Lite version works better then the paid version.
 
-*I am not responible for your actions. You should only use this for testing compatibility. IF YOU USE THE EASYTETHER YOU SHOULD PAY FOR IT.
+*I am not responible for your actions. You should only use this for testing compatibility. IF YOU USE EASYTETHER YOU SHOULD PAY FOR IT.
