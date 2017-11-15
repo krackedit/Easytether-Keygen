@@ -8,18 +8,18 @@ A simple keygen written in python for EasyTether. *Android only
   3. Input Key from easykeygen.py into EasyTether and you are done!
   
 # Locating IMEI/MEID
-  *Both IMEI and MEID are a long string of numbers with 14(MEID) or 15(IMEI) characters in it
-  Method 1:
-      Dial *#06* on the Android device
-      Your device will return your IMEI/MEID
-  Method 2:
-      1. Open easytether and click on Activate EasyTether.
-      2. Click on the button labeled "ENTER IT". On newer Android devices you may have to grant access to EasyTether. 
-      3. At the top of the screen you should see your IMEI.
+  Both IMEI and MEID are a long string of numbers with 14(MEID) or 15(IMEI) characters in it
+  ## Method 1:
+  1. Dial *#06* on the Android device
+  2. Your device will return your IMEI/MEID
+  ## Method 2:
+  1. Open easytether and click on Activate EasyTether.
+  2. Click on the button labeled "ENTER IT". On newer Android devices you may have to grant access to EasyTether. 
+  3. At the top of the screen you should see your IMEI.
 
 # Extra Info
 
-I love EasyTether but it has been a hit and miss thing with me over the years so I created a keygen that allows me to test Easytether on new devices. Use this to test that EasyTether is compatiable with your device and if it is make sure you at pay for it.
+I love EasyTether but i##t has been a hit and miss thing with me over the years so I created a keygen that allows me to test Easytether on new devices. Use this to test that EasyTether is compatiable with your device and if it is make sure you at pay for it.
 
 *I know that Lite version is meant to be used to test compatibility but for certain devices the Lite version works better then the paid version.
 
