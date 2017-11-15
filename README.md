@@ -1,4 +1,4 @@
-# EasyTether-Keygen
+# EasyTether Keygen
 
 A simple keygen written in python for EasyTether for Android. 
 
