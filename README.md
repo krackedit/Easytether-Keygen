@@ -5,7 +5,7 @@ A simple keygen written in python for EasyTether.
 # How to use
   1. Download Easytether Lite from the Play Store or from http://www.mobile-stream.com/a/easytether-phone.apk
   2. Start easykeygen.py and Enter your IMEI/MEID number
-  3. Input Key from easykeygen.py into EasyTether and you done!
+  3. Input Key from easykeygen.py into EasyTether and you are done!
   
 # Locating IMEI/MEID
   *Both IMEI and MEID are a long string of numbers with 14(MEID) or 15(IMEI) characters in it
